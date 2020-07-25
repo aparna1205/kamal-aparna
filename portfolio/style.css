@@ -206,17 +206,17 @@ span h1{
 	.column2{
 		width:100%; 
 		margin-left: 5px; 
-		height:100vw;
+		height:150vw;
 		clear:both;
 	}
 	.col1{
-		height:100vw;
+		height:200vw;
 		width:100%; 
 		margin-bottom:20px;
 		clear:both;
 	} 
 	.col2{
-		height:100vw;
+		height:200vw;
 		width:100%; 
 		float:none;
 		margin-top: 10px; 
