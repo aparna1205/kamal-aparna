@@ -85,6 +85,17 @@ span h1{
 	text-align: center;
 	margin-bottom: 30px;
 } 
+.icon-team i {
+	padding-bottom: 200px;
+    font-size: 25px;
+    margin: 5px 6px;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.icon-team i:hover {
+    color: #53c5d5;
+    cursor: pointer;
+}
 @media (min-width:992px) {
 	.col-lg-1, .col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,
 	.col-lg-6,.col-lg-7, .col-lg-8,.col-lg-9,.col-lg-10,.col-lg-11,
