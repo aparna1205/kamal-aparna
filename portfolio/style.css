@@ -56,7 +56,7 @@ li {
 .column1{ 
 	background-color: #ff9999;
 	float: left; 
-	padding: 5px;  
+	padding: 0px;  
 	margin-bottom: 5px; 
 }
 .column1 p{
@@ -72,7 +72,7 @@ li {
 	float: right;
 	background-color: #ff99cc; 
 	height:25vw;  
-	margin-right:15px;
+	margin-right:5px;
 } 
 .column2 p{
 font-size: 2em;
