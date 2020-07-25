@@ -72,7 +72,7 @@ li {
 	float: right;
 	background-color: #ff99cc; 
 	height:25vw;  
-	margin-right:20px;
+	margin-right:5px;
 } 
 .column2 p{
 font-size: 2em;
@@ -105,7 +105,8 @@ span h1{
 		float:left;
 	} 
 	.column2{
-	height:30vw}
+	height:30vw;
+	float:right;}
 	.col-lg-1{
 		width:8.33%;
 	} 
@@ -152,7 +153,8 @@ span h1{
 		float:left;
 	} 
 	.column2{
-	height:30vw;}
+	height:30vw; 
+	float:right;}
 	.col-md-1{
 		width:8.33%;
 	} 
