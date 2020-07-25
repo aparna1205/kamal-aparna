@@ -34,7 +34,7 @@
 }  
 
 .col1{ 
-	height: 30vw;
+	height: 35vw;
 	padding: 5px;
 	float:left; 
 	background-color:#ffcccc; 
@@ -43,7 +43,7 @@
 	margin-left: 0px;
 } 
 .col2{ 
-	height: 30vw;
+	height: 35vw;
 	padding: 5px;
 	float:right; 
 	background-color:#ffcccc; 
