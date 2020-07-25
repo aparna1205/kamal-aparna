@@ -200,17 +200,20 @@ span h1{
 	.column1{
 		margin-left: 180px;
 		margin-right: auto;
-		width:80%;
+		width:80%; 
+		clear:both;
 	} 
 	.column2{
 		width:100%; 
 		margin-left: 5px; 
 		height:50vw;
+		clear:both;
 	}
 	.col1{
 		height:100vw;
 		width:100%; 
 		margin-bottom:20px;
+		clear:both;
 	} 
 	.col2{
 		height:100vw;
