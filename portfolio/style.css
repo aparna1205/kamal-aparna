@@ -58,7 +58,6 @@ li {
 	float: left; 
 	padding: 0px; 
 	margin-left:0px;
-	margin-right:0px;
 	margin-bottom: 5px; 
 }
 .column1 p{
@@ -69,8 +68,7 @@ li {
 .column2 { 
 	float: right;
 	background-color: #ff99cc; 
-	height:25vw;  
-	margin-right:0px;
+	height:25vw; 
 } 
 .column2 p{
 font-size: 2em;
