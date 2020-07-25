@@ -71,7 +71,8 @@ li {
 .column2 { 
 	float: right;
 	background-color: #ff99cc; 
-	height:25vw; 
+	height:25vw;  
+	margin-right:20px;
 } 
 .column2 p{
 font-size: 2em;
